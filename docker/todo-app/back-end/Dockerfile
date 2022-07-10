@@ -15,4 +15,4 @@ RUN npm install
 # expondo a porta solicitada no readme
 EXPOSE 3001
 
-ENTRYPOINT [ "npm", "start" ]
+CMD [ "npm", "start" ]
