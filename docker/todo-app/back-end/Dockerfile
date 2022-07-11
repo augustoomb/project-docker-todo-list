@@ -1,4 +1,4 @@
-# pegando a imagem base do hub
+# pegando a imagem base do dockerhub
 FROM node:14-alpine
 
 # apontando onde será a pasta base na imagem (vi na doc do projeto)
